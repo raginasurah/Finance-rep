@@ -1,0 +1,3 @@
+OPENAI_API_KEY=WK02SL_fwl1i3vO3oj0bfDLjAaQSytUEr6KudnrsxBJAaRH7t9iarGeSi6vNPjgvF8cqfsRPCrT3BlbkFJYpgLAJieirdHOESAauD_1P7SkO9Hv7aJPVjWyrbrtJE8wjzuDP2MEdaHfXKBxJk5GI1q2LGzsA
+
+SUPABASE_URL=https://project-gold-backend.onrender.com
